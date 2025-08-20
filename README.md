@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.png" alt="POPKIT-logo" width="250"/>
+  <img src="assets/images/logo.png" alt="KEV-BLOG-logo" width="250"/>
 </p>
 
 ---
