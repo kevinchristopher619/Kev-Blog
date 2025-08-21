@@ -1,6 +1,6 @@
 colorScheme = "ocean"
 defaultAppearance = "dark"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 enableA11y = true
 enableSearch = true
 enableCodeCopy = true
@@ -28,7 +28,7 @@ layout = "fixed"
 showMenu = true
 showCopyright = false
 showThemeAttribution = false
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]

@@ -12,16 +12,6 @@
     <atom:link href="http://localhost:1313/quantum/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>BLOG-2</title>
-      <link>http://localhost:1313/quantum/quantum-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kevinchristopher.mj@gmail.com (Kevin Christopher)</author>
-      <guid>http://localhost:1313/quantum/quantum-2/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>From Classical bits to Quantum Kets</title>
       <link>http://localhost:1313/quantum/quantum-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

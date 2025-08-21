@@ -4,14 +4,19 @@
   weight = 1
 
 [[main]]
-  name = "Neural Networks"
-  pageRef = "Neural-Networks"
+  name = "AI/ML"
+  pageRef = "AI-ML"
   weight = 2
 
 [[main]]
-  name = "Projects"
-  pageRef = "Quantum"
+  name = "Rust"
+  pageRef = "Rust"
   weight = 3
+
+[[main]]
+  name = "GoLang"
+  pageRef = "GoLang"
+  weight = 4
 
 [[footer]]
 none = "none"
