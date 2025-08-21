@@ -1,14 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://kevinchristopher619.github.io/Kev-Blog/"
 languageCode = 'en-us'
 title = 'Kev-Blog'
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      [markup.goldmark.extensions.passthrough]
-        enable = true
-        [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['$', '$']]
-[params]
-  math = true
+theme = 'blowfish'
