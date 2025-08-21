@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kevinchristopher619.github.io/Kev-Blog/sitemap.xml
