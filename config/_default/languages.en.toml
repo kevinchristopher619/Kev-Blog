@@ -17,7 +17,7 @@ title = ""
 [params.author]
    name = "Kevin Christopher"
    email = "kevinchristopher.mj@gmail.com"
-   image = "img/blowfish_logo.png"
+   image = "https://avatars.githubusercontent.com/u/147324663"
    imageQuality = 96
    headline = "Quantum Freak"
 #   bio = "BIO HERE"
