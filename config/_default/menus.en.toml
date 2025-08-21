@@ -1,5 +1,17 @@
 [[main]]
-none = "none"
+  name = "Quantum"
+  pageRef = "Quantum"
+  weight = 1
+
+[[main]]
+  name = "Neural Networks"
+  pageRef = "Neural-Networks"
+  weight = 2
+
+[[main]]
+  name = "Projects"
+  pageRef = "Quantum"
+  weight = 3
 
 [[footer]]
 none = "none"

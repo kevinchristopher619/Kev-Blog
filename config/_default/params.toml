@@ -3,11 +3,12 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = true
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 replyByEmail = false
 disableImageOptimization = false
+defaultBackgroundImage = "/images/lavalamp.svg"
 disableImageOptimizationMD = false
-disableTextInHeader = false
+disableTextInHeader = true
 fingerprintAlgorithm = "sha512"
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
@@ -21,19 +22,20 @@ rssnext = { }
 advertisement = { }
 
 [header]
-layout = "fixed-fill-blur"
+layout = "fixed"
 
 [footer]
-showMenu = false
+showMenu = true
 showCopyright = false
 showThemeAttribution = false
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
 layout = "custom"
-showRecent = false
-showRecentItems = 5
+homepageImage = "/images/lavalamp.svg"
+showRecent = true
+showRecentItems = 2
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = true
@@ -48,11 +50,13 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showAuthorBottom = true
+showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
-showDraftLabel = true
+showBreadcrumbs = true
+showDraftLabel = false
 showEdit = false
 editAppendPath = true
 seriesOpened = false
@@ -60,25 +64,27 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
+showTableOfContents = true
+showTaxonomies = true
 showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = true
-showZenMode = false
+showZenMode = true
 
 [list]
-showHero = false
+showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showSummary = false
+#showSectionNumber = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 showCards = false
 orderByWeight = false
-groupByYear = true
+groupByYear = false
 cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
@@ -88,7 +94,8 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
+showHero = true
+heroStyle = "background"
 showBreadcrumbs = false
 showViews = false
 showLikes = false
@@ -96,7 +103,8 @@ showTableOfContents = false
 cardView = false
 
 [term]
-showHero = false
+showHero = true
+heroStyle = "background"
 showBreadcrumbs = false
 showViews = false
 showLikes = false
