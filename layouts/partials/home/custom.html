@@ -36,18 +36,17 @@
         </div>
 
             <div class="relative flex flex-col items-center justify-center px-1 py-1 text-center">
-            {{ $logo := resources.Get "images/logo.png" }}
-            {{ if $logo }}
-                {{ if not $disableImageOptimization }}
-                {{ $logo = $logo.Fit "236x256" }} <!-- exact dimensions -->
+                {{ $logo := resources.Get "images/logo.svg" }}
+                {{ if $logo }}
+                  {{ if eq $logo.MediaType.SubType "svg" }}
+                    <img
+                      class="mb-6"
+                      width="236"
+                      height="256"
+                      alt="Site Logo"
+                      src="{{ $logo.RelPermalink }}">
+                  {{ end }}
                 {{ end }}
-                <img
-                class="mb-6"
-                width="236"
-                height="256"
-                alt="Site Logo"
-                src="{{ $logo.RelPermalink }}">
-            {{ end }}
             </div>
             <h4 class="mt-4 text-neutral-700 dark:text-neutral-300 text-base" align="center">
             Author: <a href="https://github.com/kevinchristopher619" 

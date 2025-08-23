@@ -8,12 +8,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/Kev-Blog/rust/hello/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/Kev-Blog/quantum/quantum-1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/Kev-Blog/quantum/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Kev-Blog/rust/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

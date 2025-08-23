@@ -70,6 +70,7 @@ showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = true
+showComments = true
 
 [list]
 showHero = true
@@ -82,10 +83,10 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = true
-showCards = false
+showCards = true
 orderByWeight = false
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 

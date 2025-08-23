@@ -10,7 +10,7 @@ tags: ["Quantum", "Kevin", "Introduction"]
 - In any computer, everything boils down to bits.
 - A **"bit"**, or a **"c-bit"**, is the smallest unit of data. It can only have one of two values: \(0\) or \(1\)
 
-- *Do note that a classical bit has only one definite state, either 0 [off] or 1 [on].*
+- *Do note that a classical bit or c-bit has only one definite state, either 0 [off] or 1 [on].*
 ---
 ### Entering the Quantum World: Dirac Notation
 
