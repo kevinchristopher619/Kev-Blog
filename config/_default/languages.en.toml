@@ -11,7 +11,7 @@ title = ""
   dateFormat = "2 January 2006"
   logo = "/images/logo_flat.png"
   secondaryLogo = "/images/logo.png"
-  description = "A blog A blog page about <br> Quantum Physics, Quantum Computing & Simulation Neural Networks, Machine Learning & Artificial Intelligence Rust & GoLang"
+  description = "A blog page about <br> Quantum Physics, Quantum Computing & Simulation Neural Networks, Machine Learning & Artificial Intelligence Rust, GoLang, C++ and OCaml"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]

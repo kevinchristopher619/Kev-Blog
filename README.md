@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">A blog page about <br> Quantum Physics, Quantum Computing & Simulation <br> Neural Networks, Machine Learning & Artificial Intelligence <br> Rust & GoLang</h3>
+<h3 align="center">A blog page about <br> Quantum Physics, Quantum Computing & Simulation <br> Neural Networks, Machine Learning & Artificial Intelligence <br> Rust, GoLang, C++ and OCaml</h3>
 
 ---
 
