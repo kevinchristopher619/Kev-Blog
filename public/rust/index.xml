@@ -11,15 +11,5 @@
     
     <atom:link href="http://localhost:1313/Kev-Blog/rust/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title></title>
-      <link>http://localhost:1313/Kev-Blog/rust/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kevinchristopher.mj@gmail.com (Kevin Christopher)</author>
-      <guid>http://localhost:1313/Kev-Blog/rust/hello/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>
